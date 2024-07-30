@@ -7,7 +7,3 @@ Source code for wedding website originally from a template modified by @shyamjos
 - Highlights removed, if you need it, there is a script in highlights html  
 - To set the countdown date see below section in `js/clock.js`
 
-````
-  // Target future date/24 hour time/Timezone
-  let targetDate = moment.tz("2023-10-29 12:00", "Asia/Kolkata");
-````
