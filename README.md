@@ -1,4 +1,4 @@
-Source code for our wedding website 👫 (https://we.shyamjos.com/) , Based on HTML theme https://freehtml5.co/wedding-free-html5-bootstrap-template-for-wedding-websites
+Source code for our wedding website originally from https://we.shyamjos.com/, removed wedding clock, added RSVP section with google polls, hotel suggestion section, events boxes further developed, added images. Highlights removed, if you need it, there is a script in highlights html that you can use. 
 
 To set the countdown date see below section in `js/clock.js`
 
@@ -6,6 +6,3 @@ To set the countdown date see below section in `js/clock.js`
   // Target future date/24 hour time/Timezone
   let targetDate = moment.tz("2023-10-29 12:00", "Asia/Kolkata");
 ````
-
-## Sreenshot
-![screenshot](https://repository-images.githubusercontent.com/698651028/fbae82e0-b0bd-4295-a840-f049886a861e)
