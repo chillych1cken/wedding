@@ -1,4 +1,4 @@
-Source code for our wedding website originally from a template modified by https://we.shyamjos.com/. 
+Source code for wedding website originally from a template modified by @shyamjos.
 -removed wedding clock
 - added RSVP section with google polls#
 - hotel suggestion section
