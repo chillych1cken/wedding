@@ -1893,12 +1893,12 @@ form label {
 }
 
 #fh5co-rsvp {
-  padding-top: 4000px; /* Add space above the RSVP section */
+  padding-top: 3000px; /* Add space above the RSVP section */
   padding-bottom: 80px; /* Add space below the RSVP section */
 }
 
 #fh5co-gallery, #fh5co-services {
-  margin-top: 1000px; /* Move the gallery and highlights sections further down */
+  margin-top: 40px; /* Move the gallery and highlights sections further down */
 }
 
 .fh5co-cover {
