@@ -1906,9 +1906,13 @@ form label {
 }
 
 #fh5co-rsvp {
-  padding-top: 4800px; /* Add space above the RSVP section */
+  padding-top: 5400px; /* Add space above the RSVP section */
   padding-bottom: 80px; /* Add space below the RSVP section */
 }
+#fh5co-rsvp {
+  scroll-margin-top: -5200px; /* Adjust this value to offset the padding height */
+}
+
 
 #fh5co-gallery, #fh5co-services {
   margin-top: 40px; /* Move the gallery and highlights sections further down */
