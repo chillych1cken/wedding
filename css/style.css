@@ -1906,11 +1906,11 @@ form label {
 }
 
 #fh5co-rsvp {
-  padding-top: 5400px; /* Add space above the RSVP section */
+  padding-top: 5800px; /* Add space above the RSVP section */
   padding-bottom: 80px; /* Add space below the RSVP section */
 }
 #fh5co-rsvp {
-  scroll-margin-top: -5200px; /* Adjust this value to offset the padding height */
+  scroll-margin-top: -5700px; /* Adjust this value to offset the padding height */
 }
 
 
